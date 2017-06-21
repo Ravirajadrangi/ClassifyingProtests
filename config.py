@@ -13,7 +13,7 @@ ALL_DATA_224=DATASETS+"all_data_224/"
 
 ### CHANGE this line to the correct directory
 ### for the vgg_features folder
-VGG_FEATURES=DATASETS+"vgg_features/"
+VGG_FEATURES="datasets/vgg_features/"
 
 RAW_POSTS=DATA_ROOT+"raw/posts/labelled_withimage.tsv"
 POSTS=DATASETS+"posts/"
